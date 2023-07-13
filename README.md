@@ -1,7 +1,7 @@
 <br></br>
 ## Olá! eu sou João Vinicius 👋
 
- #### Este é o meu repositório de estudos focado na área de desenvolvimento frontend. Depois de um tempo afastado da programação, decidi retomar meus estudos e aprimorar minhas habilidades nesse campo empolgante.
+ #### Este é o meu repositório de estudos focado na área de desenvolvimento frontend. Depois de um tempo afastado da programação, decidi retomar meus estudos e aprimorar minhas habilidades nessa area.
 
 
 
