@@ -1,7 +1,8 @@
 <br></br>
 ## Olá! eu sou João Vinicius 👋
 
- #### Este é o meu repositório de estudos focado na área de desenvolvimento de sites. Testando frameworks bootatrap
+ #### Este é o meu repositório de estudos focado na área em construções de sites.
+
 
 
 ##
